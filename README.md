@@ -214,24 +214,4 @@ aws sagemaker describe-transform-job --transform-job-name JOB_NAME
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 开启 Pull Request
 
-## 📄 许可证
-
-本项目基于 MIT 许可证开源 - 查看 [LICENSE](LICENSE) 文件了解详情。
-
-## 🏢 项目信息
-
-- **项目名称**: 天气大模型-金风慧能
-- **开发团队**: 金风慧能技术团队
-- **维护状态**: 积极维护中
-- **最后更新**: 2025年8月14日
-
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- 项目 Issues: [GitHub Issues](https://github.com/your-repo/issues)
-- 技术支持: 请联系项目维护团队
-
----
-
 **注意**: 本项目专为 AWS 中国区域设计，使用前请确保已正确配置中国区域的 AWS 访问权限。
