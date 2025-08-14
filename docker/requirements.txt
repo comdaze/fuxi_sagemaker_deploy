@@ -1,0 +1,7 @@
+-i https://pypi.tuna.tsinghua.edu.cn/simple/
+onnx==1.16.0
+onnxruntime-gpu==1.18.1
+xarray
+cfgrib
+h5netcdf
+numpy==1.26.4
